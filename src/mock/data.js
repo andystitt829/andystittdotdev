@@ -46,6 +46,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'delaware-city-website.jpg',
+    title: 'Delaware City Website',
+    info: 'I turned a custom design into a custom-built WordPress theme for the municipality of Delaware City, Delaware.',
+    info2: 'This theme was built using Bootstrap 4, jQuery, and FontAwesome.',
+    url: 'https://delawarecity.delaware.gov',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'small-business-phase-2-industry-specific-guidance.jpg',
     title: 'Small Business Reopening Guidance',
     info: 'On the Delaware Division of Small Business website, I built a series of filters that businesses could use to find reopening guidance based on their industry.',
@@ -69,6 +78,11 @@ export const footerData = {
       id: nanoid(),
       name: 'linkedin',
       url: 'https://www.linkedin.com/in/andrewstitt/',
+    },
+    {
+      id: nanoid(),
+      name: 'twitter',
+      url: 'https://twitter.com/andystitt829',
     },
     {
       id: nanoid(),
