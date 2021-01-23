@@ -1,0 +1,36 @@
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a, a:hover {
+    color: #B23922;
+}
+
+.bg-light-background {
+    background-color: #E9DDC7;
+}
+
+.bg-medium-background {
+    background-color: #F79753;
+}
+
+.bg-dark-background {
+    background-color: #2D1510;
+}
+
+.bg-dark-background h2, .bg-dark-background p {
+    color: #FFF;
+}
+
+.btn {
+    background-color: #B23922;
+    color: #FFF;
+}
