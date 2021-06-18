@@ -38,3 +38,7 @@ footer a, footer a:hover {
     background-color: #B23922;
     color: #FFF;
 }
+
+.btn:hover {
+    color: #FFF;
+}
